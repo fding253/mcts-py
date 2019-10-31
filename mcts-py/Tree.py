@@ -1,0 +1,3 @@
+class MCTSTreeNode(Object):
+    pass
+
