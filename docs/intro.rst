@@ -15,8 +15,8 @@ Monte Carlo tree search is an algorithm used to randomly sample a search tree. I
 Method
 ------
 MCTS consists of four steps:
-1. Selection
-2. Expansion
-3. Simulation
-4. Backpropagation
+    1. Selection
+    2. Expansion
+    3. Simulation
+    4. Backpropagation
 
