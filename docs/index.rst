@@ -10,6 +10,10 @@ Welcome to mcts-py's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   intro
+   installation
+   usage
+
 
 
 Indices and tables
